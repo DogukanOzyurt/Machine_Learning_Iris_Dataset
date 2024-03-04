@@ -36,7 +36,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 
 The code requires a file named `Iris.csv` to be present. Then, you can run the code in a Python environment:
 
-python Iris.ipyb
+python Iris.ipynb
 
 This README file is prepared to explain the purpose of the project, the dataset used, the machine learning methods applied, and how to use the code. 
 
